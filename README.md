@@ -7,8 +7,6 @@
 ### About  
 ### <div align="center">I'm Shreya, Learning Software Development👨‍💻</div>  
   
-<div align="left">
-  <img align='right' src="me.png" width="120"/>
 
 <p>I'm a passionate, software developer studying at <a href="https://www.pu.ac.in/" target="_blank">Panjab University</a>.</p>
 <ul>
