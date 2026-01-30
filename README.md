@@ -40,17 +40,7 @@
 
 ## Github Stats  
 
-<p align="center">
-  <a href="https://github.com/shreyadhingra12">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyadhingra12&show_icons=true&count_private=true" />
-  </a>
-  <a href="https://github.com/shreyadhingra12">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyadhingra12" />
-  </a>
-  <a href="https://github.com/shreyadhingra12">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadhingra12&hide_border=true&layout=compact" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/shreyadhingra12"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyadhingra12&show_icons=true&count_private=true&theme=tokyonight" /> </a> <a href="https://github.com/shreyadhingra12"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyadhingra12&theme=tokyonight" /> </a> </p> <p align="center"> <a href="https://github.com/shreyadhingra12"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadhingra12&layout=compact&theme=tokyonight" /> </a> </p>
   
 
 <br/>  
